@@ -1,23 +1,18 @@
 # Adonis API application
+A Starter Project for building RESTful APIs using Adonis and MySQL
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
-
-1. Bodyparser
-2. Authentication
-3. CORS
-4. Lucid ORM
-5. Migrations and seeds
 
 ## Setup
 
-Use the adonis command to install the blueprint
+####Step 1: git clone this repo
 
-```bash
-adonis new yardstick --api-only
-```
+####Step 2: cd to the cloned repo
 
-or manually clone the repo and then run `npm install`.
+####Step 3: Install the application with `npm install`
 
+####Step 4: copy file .env.example to .env
+
+####Step 5: change default config in .env file
 
 ### Migrations
 
@@ -26,3 +21,18 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+### Seeds
+
+Run the following command to seed tables.
+
+```js
+adonis seed
+```
+
+### Start the dev server
+```js
+adonis serve --dev
+```
+##Questions or suggestions?
+Please write me to [espoge@gmail.com](espoge@gmail.com)
+
