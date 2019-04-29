@@ -30,10 +30,11 @@ adonis seed
 ```
 
 ### Start the dev server
+
 ```js
 adonis serve --dev
 ```
 
-###Questions or suggestions?
+## Questions or suggestions?
 Please write me to [espoge@gmail.com](espoge@gmail.com)
 
