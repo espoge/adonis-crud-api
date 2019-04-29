@@ -4,9 +4,9 @@ A Starter Project for building RESTful APIs using Adonis and MySQL
 
 ## Setup
 
-**Step 1:** git clone this repo
+**Step 1:** clone this repo
 
-**Step 2:** cd to the cloned repo
+**Step 2:** cd to the cloned repo folder
 
 **Step 3:** Install the application with `npm install`
 
@@ -33,6 +33,7 @@ adonis seed
 ```js
 adonis serve --dev
 ```
-##Questions or suggestions?
+
+###Questions or suggestions?
 Please write me to [espoge@gmail.com](espoge@gmail.com)
 
