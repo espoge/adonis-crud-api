@@ -4,15 +4,15 @@ A Starter Project for building RESTful APIs using Adonis and MySQL
 
 ## Setup
 
-####Step 1: git clone this repo
+###Step 1: git clone this repo
 
-####Step 2: cd to the cloned repo
+###Step 2: cd to the cloned repo
 
-####Step 3: Install the application with `npm install`
+###Step 3: Install the application with `npm install`
 
-####Step 4: copy file .env.example to .env
+###Step 4: copy file .env.example to .env
 
-####Step 5: change default config in .env file
+###Step 5: change default config in .env file
 
 ### Migrations
 
