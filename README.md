@@ -1,5 +1,5 @@
 # Adonis API application
-A Starter Project for building RESTful APIs using Adonis and MySQL. This is just backend of fullstack app, for the front-end check this repo: [nuxt-crud-client] (https://github.com/espoge/nuxt-crud-client)
+A Starter Project for building RESTful APIs using Adonis and MySQL. This is just backend of fullstack app, for the front-end check this repo: [nuxt-crud-client](https://github.com/espoge/nuxt-crud-client)
 
 
 ## Setup
